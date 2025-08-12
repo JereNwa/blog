@@ -1,6 +1,6 @@
 ---
 title: Coding a Game in Scratch 2.0 - Part One
-description: This is a post on My Blog about agile frameworks.
+description: Can I code using Scratch 2.0?.
 date: 2025-05-10
 tags: Coding, Scratch
 ---
