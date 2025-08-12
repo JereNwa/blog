@@ -2,7 +2,7 @@
 title: Coding a Game in Scratch 2.0 - Part One
 description: Can I code using Scratch 2.0?.
 date: 2025-05-10
-tags: Coding, Scratch
+tags: ["Coding", "Scratch"]
 ---
 ## Part One: Finding 2.0
 First of all, I need to get Scratch 2.0. This was hard, as I use an iPad with a keyboard and I can't download the 2.0 Offline Editor, so I used the Wayback Machine.
